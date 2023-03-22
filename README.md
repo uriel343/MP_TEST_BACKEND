@@ -5,7 +5,6 @@ The project consist on a basic crud api system oriented to handle the locations 
 # Technologies used on it
 - Nodejs with JS 
 - SQL SERVER as DB
-- JWT as auth method
 
 Please consideer the packages installed and declared on `package.json`
 
