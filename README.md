@@ -1,6 +1,6 @@
 # Manage Locations BACKEND
 
-The project consist on a basic auth system oriented to handle the locations from the Entity
+The project consist on a basic crud api system oriented to handle the locations from the Entity
 
 # Technologies used on it
 - Nodejs with JS 
